@@ -1,0 +1,819 @@
+{"country":"Afghanistan","Year":2022,"Predicted_URBAN_SDG_7_1_1":102.4563636364}
+{"country":"Afghanistan","Year":2023,"Predicted_URBAN_SDG_7_1_1":103.7890909091}
+{"country":"Afghanistan","Year":2024,"Predicted_URBAN_SDG_7_1_1":105.1218181818}
+{"country":"Afghanistan","Year":2025,"Predicted_URBAN_SDG_7_1_1":106.4545454545}
+{"country":"Afghanistan","Year":2026,"Predicted_URBAN_SDG_7_1_1":107.7872727273}
+{"country":"Afghanistan","Year":2027,"Predicted_URBAN_SDG_7_1_1":109.12}
+{"country":"Afghanistan","Year":2028,"Predicted_URBAN_SDG_7_1_1":110.4527272727}
+{"country":"Afghanistan","Year":2029,"Predicted_URBAN_SDG_7_1_1":111.7854545455}
+{"country":"Afghanistan","Year":2030,"Predicted_URBAN_SDG_7_1_1":113.1181818182}
+{"country":"South America","Year":2022,"Predicted_URBAN_SDG_7_1_1":100.8818181818}
+{"country":"South America","Year":2023,"Predicted_URBAN_SDG_7_1_1":101.0}
+{"country":"South America","Year":2024,"Predicted_URBAN_SDG_7_1_1":101.1181818182}
+{"country":"South America","Year":2025,"Predicted_URBAN_SDG_7_1_1":101.2363636364}
+{"country":"South America","Year":2026,"Predicted_URBAN_SDG_7_1_1":101.3545454545}
+{"country":"South America","Year":2027,"Predicted_URBAN_SDG_7_1_1":101.4727272727}
+{"country":"South America","Year":2028,"Predicted_URBAN_SDG_7_1_1":101.5909090909}
+{"country":"South America","Year":2029,"Predicted_URBAN_SDG_7_1_1":101.7090909091}
+{"country":"South America","Year":2030,"Predicted_URBAN_SDG_7_1_1":101.8272727273}
+{"country":"Oceania","Year":2022,"Predicted_URBAN_SDG_7_1_1":98.5181818182}
+{"country":"Oceania","Year":2023,"Predicted_URBAN_SDG_7_1_1":98.5272727273}
+{"country":"Oceania","Year":2024,"Predicted_URBAN_SDG_7_1_1":98.5363636364}
+{"country":"Oceania","Year":2025,"Predicted_URBAN_SDG_7_1_1":98.5454545455}
+{"country":"Oceania","Year":2026,"Predicted_URBAN_SDG_7_1_1":98.5545454545}
+{"country":"Oceania","Year":2027,"Predicted_URBAN_SDG_7_1_1":98.5636363636}
+{"country":"Oceania","Year":2028,"Predicted_URBAN_SDG_7_1_1":98.5727272727}
+{"country":"Oceania","Year":2029,"Predicted_URBAN_SDG_7_1_1":98.5818181818}
+{"country":"Oceania","Year":2030,"Predicted_URBAN_SDG_7_1_1":98.5909090909}
+{"country":"Western Africa","Year":2022,"Predicted_URBAN_SDG_7_1_1":80.9681818182}
+{"country":"Western Africa","Year":2023,"Predicted_URBAN_SDG_7_1_1":81.2909090909}
+{"country":"Western Africa","Year":2024,"Predicted_URBAN_SDG_7_1_1":81.6136363636}
+{"country":"Western Africa","Year":2025,"Predicted_URBAN_SDG_7_1_1":81.9363636364}
+{"country":"Western Africa","Year":2026,"Predicted_URBAN_SDG_7_1_1":82.2590909091}
+{"country":"Western Africa","Year":2027,"Predicted_URBAN_SDG_7_1_1":82.5818181818}
+{"country":"Western Africa","Year":2028,"Predicted_URBAN_SDG_7_1_1":82.9045454545}
+{"country":"Western Africa","Year":2029,"Predicted_URBAN_SDG_7_1_1":83.2272727273}
+{"country":"Western Africa","Year":2030,"Predicted_URBAN_SDG_7_1_1":83.55}
+{"country":"Central America","Year":2022,"Predicted_URBAN_SDG_7_1_1":99.73}
+{"country":"Central America","Year":2023,"Predicted_URBAN_SDG_7_1_1":99.7836363636}
+{"country":"Central America","Year":2024,"Predicted_URBAN_SDG_7_1_1":99.8372727273}
+{"country":"Central America","Year":2025,"Predicted_URBAN_SDG_7_1_1":99.8909090909}
+{"country":"Central America","Year":2026,"Predicted_URBAN_SDG_7_1_1":99.9445454545}
+{"country":"Central America","Year":2027,"Predicted_URBAN_SDG_7_1_1":99.9981818182}
+{"country":"Central America","Year":2028,"Predicted_URBAN_SDG_7_1_1":100.0518181818}
+{"country":"Central America","Year":2029,"Predicted_URBAN_SDG_7_1_1":100.1054545455}
+{"country":"Central America","Year":2030,"Predicted_URBAN_SDG_7_1_1":100.1590909091}
+{"country":"Eastern Africa","Year":2022,"Predicted_URBAN_SDG_7_1_1":73.3336363636}
+{"country":"Eastern Africa","Year":2023,"Predicted_URBAN_SDG_7_1_1":74.4436363636}
+{"country":"Eastern Africa","Year":2024,"Predicted_URBAN_SDG_7_1_1":75.5536363636}
+{"country":"Eastern Africa","Year":2025,"Predicted_URBAN_SDG_7_1_1":76.6636363636}
+{"country":"Eastern Africa","Year":2026,"Predicted_URBAN_SDG_7_1_1":77.7736363636}
+{"country":"Eastern Africa","Year":2027,"Predicted_URBAN_SDG_7_1_1":78.8836363636}
+{"country":"Eastern Africa","Year":2028,"Predicted_URBAN_SDG_7_1_1":79.9936363636}
+{"country":"Eastern Africa","Year":2029,"Predicted_URBAN_SDG_7_1_1":81.1036363636}
+{"country":"Eastern Africa","Year":2030,"Predicted_URBAN_SDG_7_1_1":82.2136363636}
+{"country":"Northern Africa","Year":2022,"Predicted_URBAN_SDG_7_1_1":96.3636363636}
+{"country":"Northern Africa","Year":2023,"Predicted_URBAN_SDG_7_1_1":96.4636363636}
+{"country":"Northern Africa","Year":2024,"Predicted_URBAN_SDG_7_1_1":96.5636363636}
+{"country":"Northern Africa","Year":2025,"Predicted_URBAN_SDG_7_1_1":96.6636363636}
+{"country":"Northern Africa","Year":2026,"Predicted_URBAN_SDG_7_1_1":96.7636363636}
+{"country":"Northern Africa","Year":2027,"Predicted_URBAN_SDG_7_1_1":96.8636363636}
+{"country":"Northern Africa","Year":2028,"Predicted_URBAN_SDG_7_1_1":96.9636363636}
+{"country":"Northern Africa","Year":2029,"Predicted_URBAN_SDG_7_1_1":97.0636363636}
+{"country":"Northern Africa","Year":2030,"Predicted_URBAN_SDG_7_1_1":97.1636363636}
+{"country":"Middle Africa","Year":2022,"Predicted_URBAN_SDG_7_1_1":75.2981818182}
+{"country":"Middle Africa","Year":2023,"Predicted_URBAN_SDG_7_1_1":76.9927272727}
+{"country":"Middle Africa","Year":2024,"Predicted_URBAN_SDG_7_1_1":78.6872727273}
+{"country":"Middle Africa","Year":2025,"Predicted_URBAN_SDG_7_1_1":80.3818181818}
+{"country":"Middle Africa","Year":2026,"Predicted_URBAN_SDG_7_1_1":82.0763636364}
+{"country":"Middle Africa","Year":2027,"Predicted_URBAN_SDG_7_1_1":83.7709090909}
+{"country":"Middle Africa","Year":2028,"Predicted_URBAN_SDG_7_1_1":85.4654545455}
+{"country":"Middle Africa","Year":2029,"Predicted_URBAN_SDG_7_1_1":87.16}
+{"country":"Middle Africa","Year":2030,"Predicted_URBAN_SDG_7_1_1":88.8545454545}
+{"country":"Southern Africa","Year":2022,"Predicted_URBAN_SDG_7_1_1":86.7663636364}
+{"country":"Southern Africa","Year":2023,"Predicted_URBAN_SDG_7_1_1":86.9472727273}
+{"country":"Southern Africa","Year":2024,"Predicted_URBAN_SDG_7_1_1":87.1281818182}
+{"country":"Southern Africa","Year":2025,"Predicted_URBAN_SDG_7_1_1":87.3090909091}
+{"country":"Southern Africa","Year":2026,"Predicted_URBAN_SDG_7_1_1":87.49}
+{"country":"Southern Africa","Year":2027,"Predicted_URBAN_SDG_7_1_1":87.6709090909}
+{"country":"Southern Africa","Year":2028,"Predicted_URBAN_SDG_7_1_1":87.8518181818}
+{"country":"Southern Africa","Year":2029,"Predicted_URBAN_SDG_7_1_1":88.0327272727}
+{"country":"Southern Africa","Year":2030,"Predicted_URBAN_SDG_7_1_1":88.2136363636}
+{"country":"Angola","Year":2022,"Predicted_URBAN_SDG_7_1_1":104.5945454545}
+{"country":"Angola","Year":2023,"Predicted_URBAN_SDG_7_1_1":107.6145454545}
+{"country":"Angola","Year":2024,"Predicted_URBAN_SDG_7_1_1":110.6345454545}
+{"country":"Angola","Year":2025,"Predicted_URBAN_SDG_7_1_1":113.6545454545}
+{"country":"Angola","Year":2026,"Predicted_URBAN_SDG_7_1_1":116.6745454545}
+{"country":"Angola","Year":2027,"Predicted_URBAN_SDG_7_1_1":119.6945454545}
+{"country":"Angola","Year":2028,"Predicted_URBAN_SDG_7_1_1":122.7145454545}
+{"country":"Angola","Year":2029,"Predicted_URBAN_SDG_7_1_1":125.7345454545}
+{"country":"Angola","Year":2030,"Predicted_URBAN_SDG_7_1_1":128.7545454545}
+{"country":"Caribbean","Year":2022,"Predicted_URBAN_SDG_7_1_1":94.5027272727}
+{"country":"Caribbean","Year":2023,"Predicted_URBAN_SDG_7_1_1":94.5290909091}
+{"country":"Caribbean","Year":2024,"Predicted_URBAN_SDG_7_1_1":94.5554545455}
+{"country":"Caribbean","Year":2025,"Predicted_URBAN_SDG_7_1_1":94.5818181818}
+{"country":"Caribbean","Year":2026,"Predicted_URBAN_SDG_7_1_1":94.6081818182}
+{"country":"Caribbean","Year":2027,"Predicted_URBAN_SDG_7_1_1":94.6345454545}
+{"country":"Caribbean","Year":2028,"Predicted_URBAN_SDG_7_1_1":94.6609090909}
+{"country":"Caribbean","Year":2029,"Predicted_URBAN_SDG_7_1_1":94.6872727273}
+{"country":"Caribbean","Year":2030,"Predicted_URBAN_SDG_7_1_1":94.7136363636}
+{"country":"Southern Asia","Year":2022,"Predicted_URBAN_SDG_7_1_1":100.9309090909}
+{"country":"Southern Asia","Year":2023,"Predicted_URBAN_SDG_7_1_1":101.4418181818}
+{"country":"Southern Asia","Year":2024,"Predicted_URBAN_SDG_7_1_1":101.9527272727}
+{"country":"Southern Asia","Year":2025,"Predicted_URBAN_SDG_7_1_1":102.4636363636}
+{"country":"Southern Asia","Year":2026,"Predicted_URBAN_SDG_7_1_1":102.9745454545}
+{"country":"Southern Asia","Year":2027,"Predicted_URBAN_SDG_7_1_1":103.4854545455}
+{"country":"Southern Asia","Year":2028,"Predicted_URBAN_SDG_7_1_1":103.9963636364}
+{"country":"Southern Asia","Year":2029,"Predicted_URBAN_SDG_7_1_1":104.5072727273}
+{"country":"Southern Asia","Year":2030,"Predicted_URBAN_SDG_7_1_1":105.0181818182}
+{"country":"South-Eastern Asia","Year":2022,"Predicted_URBAN_SDG_7_1_1":101.4436363636}
+{"country":"South-Eastern Asia","Year":2023,"Predicted_URBAN_SDG_7_1_1":101.7654545455}
+{"country":"South-Eastern Asia","Year":2024,"Predicted_URBAN_SDG_7_1_1":102.0872727273}
+{"country":"South-Eastern Asia","Year":2025,"Predicted_URBAN_SDG_7_1_1":102.4090909091}
+{"country":"South-Eastern Asia","Year":2026,"Predicted_URBAN_SDG_7_1_1":102.7309090909}
+{"country":"South-Eastern Asia","Year":2027,"Predicted_URBAN_SDG_7_1_1":103.0527272727}
+{"country":"South-Eastern Asia","Year":2028,"Predicted_URBAN_SDG_7_1_1":103.3745454545}
+{"country":"South-Eastern Asia","Year":2029,"Predicted_URBAN_SDG_7_1_1":103.6963636364}
+{"country":"South-Eastern Asia","Year":2030,"Predicted_URBAN_SDG_7_1_1":104.0181818182}
+{"country":"Bangladesh","Year":2022,"Predicted_URBAN_SDG_7_1_1":97.8945454545}
+{"country":"Bangladesh","Year":2023,"Predicted_URBAN_SDG_7_1_1":98.8509090909}
+{"country":"Bangladesh","Year":2024,"Predicted_URBAN_SDG_7_1_1":99.8072727273}
+{"country":"Bangladesh","Year":2025,"Predicted_URBAN_SDG_7_1_1":100.7636363636}
+{"country":"Bangladesh","Year":2026,"Predicted_URBAN_SDG_7_1_1":101.72}
+{"country":"Bangladesh","Year":2027,"Predicted_URBAN_SDG_7_1_1":102.6763636364}
+{"country":"Bangladesh","Year":2028,"Predicted_URBAN_SDG_7_1_1":103.6327272727}
+{"country":"Bangladesh","Year":2029,"Predicted_URBAN_SDG_7_1_1":104.5890909091}
+{"country":"Bangladesh","Year":2030,"Predicted_URBAN_SDG_7_1_1":105.5454545455}
+{"country":"Central and Southern Asia","Year":2022,"Predicted_URBAN_SDG_7_1_1":100.8609090909}
+{"country":"Central and Southern Asia","Year":2023,"Predicted_URBAN_SDG_7_1_1":101.3436363636}
+{"country":"Central and Southern Asia","Year":2024,"Predicted_URBAN_SDG_7_1_1":101.8263636364}
+{"country":"Central and Southern Asia","Year":2025,"Predicted_URBAN_SDG_7_1_1":102.3090909091}
+{"country":"Central and Southern Asia","Year":2026,"Predicted_URBAN_SDG_7_1_1":102.7918181818}
+{"country":"Central and Southern Asia","Year":2027,"Predicted_URBAN_SDG_7_1_1":103.2745454545}
+{"country":"Central and Southern Asia","Year":2028,"Predicted_URBAN_SDG_7_1_1":103.7572727273}
+{"country":"Central and Southern Asia","Year":2029,"Predicted_URBAN_SDG_7_1_1":104.24}
+{"country":"Central and Southern Asia","Year":2030,"Predicted_URBAN_SDG_7_1_1":104.7227272727}
+{"country":"Botswana","Year":2022,"Predicted_URBAN_SDG_7_1_1":100.0981818182}
+{"country":"Botswana","Year":2023,"Predicted_URBAN_SDG_7_1_1":102.9472727273}
+{"country":"Botswana","Year":2024,"Predicted_URBAN_SDG_7_1_1":105.7963636364}
+{"country":"Botswana","Year":2025,"Predicted_URBAN_SDG_7_1_1":108.6454545455}
+{"country":"Botswana","Year":2026,"Predicted_URBAN_SDG_7_1_1":111.4945454545}
+{"country":"Botswana","Year":2027,"Predicted_URBAN_SDG_7_1_1":114.3436363636}
+{"country":"Botswana","Year":2028,"Predicted_URBAN_SDG_7_1_1":117.1927272727}
+{"country":"Botswana","Year":2029,"Predicted_URBAN_SDG_7_1_1":120.0418181818}
+{"country":"Botswana","Year":2030,"Predicted_URBAN_SDG_7_1_1":122.8909090909}
+{"country":"Belize","Year":2022,"Predicted_URBAN_SDG_7_1_1":99.2009090909}
+{"country":"Belize","Year":2023,"Predicted_URBAN_SDG_7_1_1":99.3763636364}
+{"country":"Belize","Year":2024,"Predicted_URBAN_SDG_7_1_1":99.5518181818}
+{"country":"Belize","Year":2025,"Predicted_URBAN_SDG_7_1_1":99.7272727273}
+{"country":"Belize","Year":2026,"Predicted_URBAN_SDG_7_1_1":99.9027272727}
+{"country":"Belize","Year":2027,"Predicted_URBAN_SDG_7_1_1":100.0781818182}
+{"country":"Belize","Year":2028,"Predicted_URBAN_SDG_7_1_1":100.2536363636}
+{"country":"Belize","Year":2029,"Predicted_URBAN_SDG_7_1_1":100.4290909091}
+{"country":"Belize","Year":2030,"Predicted_URBAN_SDG_7_1_1":100.6045454545}
+{"country":"Solomon Islands","Year":2022,"Predicted_URBAN_SDG_7_1_1":79.3154545455}
+{"country":"Solomon Islands","Year":2023,"Predicted_URBAN_SDG_7_1_1":80.2709090909}
+{"country":"Solomon Islands","Year":2024,"Predicted_URBAN_SDG_7_1_1":81.2263636364}
+{"country":"Solomon Islands","Year":2025,"Predicted_URBAN_SDG_7_1_1":82.1818181818}
+{"country":"Solomon Islands","Year":2026,"Predicted_URBAN_SDG_7_1_1":83.1372727273}
+{"country":"Solomon Islands","Year":2027,"Predicted_URBAN_SDG_7_1_1":84.0927272727}
+{"country":"Solomon Islands","Year":2028,"Predicted_URBAN_SDG_7_1_1":85.0481818182}
+{"country":"Solomon Islands","Year":2029,"Predicted_URBAN_SDG_7_1_1":86.0036363636}
+{"country":"Solomon Islands","Year":2030,"Predicted_URBAN_SDG_7_1_1":86.9590909091}
+{"country":"Bulgaria","Year":2022,"Predicted_URBAN_SDG_7_1_1":100.0918181818}
+{"country":"Bulgaria","Year":2023,"Predicted_URBAN_SDG_7_1_1":100.4309090909}
+{"country":"Bulgaria","Year":2024,"Predicted_URBAN_SDG_7_1_1":100.77}
+{"country":"Bulgaria","Year":2025,"Predicted_URBAN_SDG_7_1_1":101.1090909091}
+{"country":"Bulgaria","Year":2026,"Predicted_URBAN_SDG_7_1_1":101.4481818182}
+{"country":"Bulgaria","Year":2027,"Predicted_URBAN_SDG_7_1_1":101.7872727273}
+{"country":"Bulgaria","Year":2028,"Predicted_URBAN_SDG_7_1_1":102.1263636364}
+{"country":"Bulgaria","Year":2029,"Predicted_URBAN_SDG_7_1_1":102.4654545455}
+{"country":"Bulgaria","Year":2030,"Predicted_URBAN_SDG_7_1_1":102.8045454545}
+{"country":"Myanmar","Year":2022,"Predicted_URBAN_SDG_7_1_1":94.9972727273}
+{"country":"Myanmar","Year":2023,"Predicted_URBAN_SDG_7_1_1":95.5890909091}
+{"country":"Myanmar","Year":2024,"Predicted_URBAN_SDG_7_1_1":96.1809090909}
+{"country":"Myanmar","Year":2025,"Predicted_URBAN_SDG_7_1_1":96.7727272727}
+{"country":"Myanmar","Year":2026,"Predicted_URBAN_SDG_7_1_1":97.3645454545}
+{"country":"Myanmar","Year":2027,"Predicted_URBAN_SDG_7_1_1":97.9563636364}
+{"country":"Myanmar","Year":2028,"Predicted_URBAN_SDG_7_1_1":98.5481818182}
+{"country":"Myanmar","Year":2029,"Predicted_URBAN_SDG_7_1_1":99.14}
+{"country":"Myanmar","Year":2030,"Predicted_URBAN_SDG_7_1_1":99.7318181818}
+{"country":"Burundi","Year":2022,"Predicted_URBAN_SDG_7_1_1":45.9372727273}
+{"country":"Burundi","Year":2023,"Predicted_URBAN_SDG_7_1_1":45.7490909091}
+{"country":"Burundi","Year":2024,"Predicted_URBAN_SDG_7_1_1":45.5609090909}
+{"country":"Burundi","Year":2025,"Predicted_URBAN_SDG_7_1_1":45.3727272727}
+{"country":"Burundi","Year":2026,"Predicted_URBAN_SDG_7_1_1":45.1845454545}
+{"country":"Burundi","Year":2027,"Predicted_URBAN_SDG_7_1_1":44.9963636364}
+{"country":"Burundi","Year":2028,"Predicted_URBAN_SDG_7_1_1":44.8081818182}
+{"country":"Burundi","Year":2029,"Predicted_URBAN_SDG_7_1_1":44.62}
+{"country":"Burundi","Year":2030,"Predicted_URBAN_SDG_7_1_1":44.4318181818}
+{"country":"Cambodia","Year":2022,"Predicted_URBAN_SDG_7_1_1":119.6009090909}
+{"country":"Cambodia","Year":2023,"Predicted_URBAN_SDG_7_1_1":122.2945454545}
+{"country":"Cambodia","Year":2024,"Predicted_URBAN_SDG_7_1_1":124.9881818182}
+{"country":"Cambodia","Year":2025,"Predicted_URBAN_SDG_7_1_1":127.6818181818}
+{"country":"Cambodia","Year":2026,"Predicted_URBAN_SDG_7_1_1":130.3754545455}
+{"country":"Cambodia","Year":2027,"Predicted_URBAN_SDG_7_1_1":133.0690909091}
+{"country":"Cambodia","Year":2028,"Predicted_URBAN_SDG_7_1_1":135.7627272727}
+{"country":"Cambodia","Year":2029,"Predicted_URBAN_SDG_7_1_1":138.4563636364}
+{"country":"Cambodia","Year":2030,"Predicted_URBAN_SDG_7_1_1":141.15}
+{"country":"Cameroon","Year":2022,"Predicted_URBAN_SDG_7_1_1":93.4445454545}
+{"country":"Cameroon","Year":2023,"Predicted_URBAN_SDG_7_1_1":94.1418181818}
+{"country":"Cameroon","Year":2024,"Predicted_URBAN_SDG_7_1_1":94.8390909091}
+{"country":"Cameroon","Year":2025,"Predicted_URBAN_SDG_7_1_1":95.5363636364}
+{"country":"Cameroon","Year":2026,"Predicted_URBAN_SDG_7_1_1":96.2336363636}
+{"country":"Cameroon","Year":2027,"Predicted_URBAN_SDG_7_1_1":96.9309090909}
+{"country":"Cameroon","Year":2028,"Predicted_URBAN_SDG_7_1_1":97.6281818182}
+{"country":"Cameroon","Year":2029,"Predicted_URBAN_SDG_7_1_1":98.3254545455}
+{"country":"Cameroon","Year":2030,"Predicted_URBAN_SDG_7_1_1":99.0227272727}
+{"country":"Cabo Verde","Year":2022,"Predicted_URBAN_SDG_7_1_1":98.0754545455}
+{"country":"Cabo Verde","Year":2023,"Predicted_URBAN_SDG_7_1_1":98.8472727273}
+{"country":"Cabo Verde","Year":2024,"Predicted_URBAN_SDG_7_1_1":99.6190909091}
+{"country":"Cabo Verde","Year":2025,"Predicted_URBAN_SDG_7_1_1":100.3909090909}
+{"country":"Cabo Verde","Year":2026,"Predicted_URBAN_SDG_7_1_1":101.1627272727}
+{"country":"Cabo Verde","Year":2027,"Predicted_URBAN_SDG_7_1_1":101.9345454545}
+{"country":"Cabo Verde","Year":2028,"Predicted_URBAN_SDG_7_1_1":102.7063636364}
+{"country":"Cabo Verde","Year":2029,"Predicted_URBAN_SDG_7_1_1":103.4781818182}
+{"country":"Cabo Verde","Year":2030,"Predicted_URBAN_SDG_7_1_1":104.25}
+{"country":"Central African Republic","Year":2022,"Predicted_URBAN_SDG_7_1_1":29.8790909091}
+{"country":"Central African Republic","Year":2023,"Predicted_URBAN_SDG_7_1_1":30.6072727273}
+{"country":"Central African Republic","Year":2024,"Predicted_URBAN_SDG_7_1_1":31.3354545455}
+{"country":"Central African Republic","Year":2025,"Predicted_URBAN_SDG_7_1_1":32.0636363636}
+{"country":"Central African Republic","Year":2026,"Predicted_URBAN_SDG_7_1_1":32.7918181818}
+{"country":"Central African Republic","Year":2027,"Predicted_URBAN_SDG_7_1_1":33.52}
+{"country":"Central African Republic","Year":2028,"Predicted_URBAN_SDG_7_1_1":34.2481818182}
+{"country":"Central African Republic","Year":2029,"Predicted_URBAN_SDG_7_1_1":34.9763636364}
+{"country":"Central African Republic","Year":2030,"Predicted_URBAN_SDG_7_1_1":35.7045454545}
+{"country":"Chad","Year":2022,"Predicted_URBAN_SDG_7_1_1":33.0936363636}
+{"country":"Chad","Year":2023,"Predicted_URBAN_SDG_7_1_1":34.1109090909}
+{"country":"Chad","Year":2024,"Predicted_URBAN_SDG_7_1_1":35.1281818182}
+{"country":"Chad","Year":2025,"Predicted_URBAN_SDG_7_1_1":36.1454545455}
+{"country":"Chad","Year":2026,"Predicted_URBAN_SDG_7_1_1":37.1627272727}
+{"country":"Chad","Year":2027,"Predicted_URBAN_SDG_7_1_1":38.18}
+{"country":"Chad","Year":2028,"Predicted_URBAN_SDG_7_1_1":39.1972727273}
+{"country":"Chad","Year":2029,"Predicted_URBAN_SDG_7_1_1":40.2145454545}
+{"country":"Chad","Year":2030,"Predicted_URBAN_SDG_7_1_1":41.2318181818}
+{"country":"Congo","Year":2022,"Predicted_URBAN_SDG_7_1_1":67.5163636364}
+{"country":"Congo","Year":2023,"Predicted_URBAN_SDG_7_1_1":68.4927272727}
+{"country":"Congo","Year":2024,"Predicted_URBAN_SDG_7_1_1":69.4690909091}
+{"country":"Congo","Year":2025,"Predicted_URBAN_SDG_7_1_1":70.4454545455}
+{"country":"Congo","Year":2026,"Predicted_URBAN_SDG_7_1_1":71.4218181818}
+{"country":"Congo","Year":2027,"Predicted_URBAN_SDG_7_1_1":72.3981818182}
+{"country":"Congo","Year":2028,"Predicted_URBAN_SDG_7_1_1":73.3745454545}
+{"country":"Congo","Year":2029,"Predicted_URBAN_SDG_7_1_1":74.3509090909}
+{"country":"Congo","Year":2030,"Predicted_URBAN_SDG_7_1_1":75.3272727273}
+{"country":"Democratic Republic of the Congo","Year":2022,"Predicted_URBAN_SDG_7_1_1":59.1945454545}
+{"country":"Democratic Republic of the Congo","Year":2023,"Predicted_URBAN_SDG_7_1_1":60.9054545455}
+{"country":"Democratic Republic of the Congo","Year":2024,"Predicted_URBAN_SDG_7_1_1":62.6163636364}
+{"country":"Democratic Republic of the Congo","Year":2025,"Predicted_URBAN_SDG_7_1_1":64.3272727273}
+{"country":"Democratic Republic of the Congo","Year":2026,"Predicted_URBAN_SDG_7_1_1":66.0381818182}
+{"country":"Democratic Republic of the Congo","Year":2027,"Predicted_URBAN_SDG_7_1_1":67.7490909091}
+{"country":"Democratic Republic of the Congo","Year":2028,"Predicted_URBAN_SDG_7_1_1":69.46}
+{"country":"Democratic Republic of the Congo","Year":2029,"Predicted_URBAN_SDG_7_1_1":71.1709090909}
+{"country":"Democratic Republic of the Congo","Year":2030,"Predicted_URBAN_SDG_7_1_1":72.8818181818}
+{"country":"Least Developed Countries (LDCs)","Year":2022,"Predicted_URBAN_SDG_7_1_1":79.8772727273}
+{"country":"Least Developed Countries (LDCs)","Year":2023,"Predicted_URBAN_SDG_7_1_1":80.9909090909}
+{"country":"Least Developed Countries (LDCs)","Year":2024,"Predicted_URBAN_SDG_7_1_1":82.1045454545}
+{"country":"Least Developed Countries (LDCs)","Year":2025,"Predicted_URBAN_SDG_7_1_1":83.2181818182}
+{"country":"Least Developed Countries (LDCs)","Year":2026,"Predicted_URBAN_SDG_7_1_1":84.3318181818}
+{"country":"Least Developed Countries (LDCs)","Year":2027,"Predicted_URBAN_SDG_7_1_1":85.4454545455}
+{"country":"Least Developed Countries (LDCs)","Year":2028,"Predicted_URBAN_SDG_7_1_1":86.5590909091}
+{"country":"Least Developed Countries (LDCs)","Year":2029,"Predicted_URBAN_SDG_7_1_1":87.6727272727}
+{"country":"Least Developed Countries (LDCs)","Year":2030,"Predicted_URBAN_SDG_7_1_1":88.7863636364}
+{"country":"Sub-Saharan Africa","Year":2022,"Predicted_URBAN_SDG_7_1_1":77.7254545455}
+{"country":"Sub-Saharan Africa","Year":2023,"Predicted_URBAN_SDG_7_1_1":78.4563636364}
+{"country":"Sub-Saharan Africa","Year":2024,"Predicted_URBAN_SDG_7_1_1":79.1872727273}
+{"country":"Sub-Saharan Africa","Year":2025,"Predicted_URBAN_SDG_7_1_1":79.9181818182}
+{"country":"Sub-Saharan Africa","Year":2026,"Predicted_URBAN_SDG_7_1_1":80.6490909091}
+{"country":"Sub-Saharan Africa","Year":2027,"Predicted_URBAN_SDG_7_1_1":81.38}
+{"country":"Sub-Saharan Africa","Year":2028,"Predicted_URBAN_SDG_7_1_1":82.1109090909}
+{"country":"Sub-Saharan Africa","Year":2029,"Predicted_URBAN_SDG_7_1_1":82.8418181818}
+{"country":"Sub-Saharan Africa","Year":2030,"Predicted_URBAN_SDG_7_1_1":83.5727272727}
+{"country":"Benin","Year":2022,"Predicted_URBAN_SDG_7_1_1":75.3890909091}
+{"country":"Benin","Year":2023,"Predicted_URBAN_SDG_7_1_1":76.6927272727}
+{"country":"Benin","Year":2024,"Predicted_URBAN_SDG_7_1_1":77.9963636364}
+{"country":"Benin","Year":2025,"Predicted_URBAN_SDG_7_1_1":79.3}
+{"country":"Benin","Year":2026,"Predicted_URBAN_SDG_7_1_1":80.6036363636}
+{"country":"Benin","Year":2027,"Predicted_URBAN_SDG_7_1_1":81.9072727273}
+{"country":"Benin","Year":2028,"Predicted_URBAN_SDG_7_1_1":83.2109090909}
+{"country":"Benin","Year":2029,"Predicted_URBAN_SDG_7_1_1":84.5145454545}
+{"country":"Benin","Year":2030,"Predicted_URBAN_SDG_7_1_1":85.8181818182}
+{"country":"El Salvador","Year":2022,"Predicted_URBAN_SDG_7_1_1":96.9863636364}
+{"country":"El Salvador","Year":2023,"Predicted_URBAN_SDG_7_1_1":97.0}
+{"country":"El Salvador","Year":2024,"Predicted_URBAN_SDG_7_1_1":97.0136363636}
+{"country":"El Salvador","Year":2025,"Predicted_URBAN_SDG_7_1_1":97.0272727273}
+{"country":"El Salvador","Year":2026,"Predicted_URBAN_SDG_7_1_1":97.0409090909}
+{"country":"El Salvador","Year":2027,"Predicted_URBAN_SDG_7_1_1":97.0545454545}
+{"country":"El Salvador","Year":2028,"Predicted_URBAN_SDG_7_1_1":97.0681818182}
+{"country":"El Salvador","Year":2029,"Predicted_URBAN_SDG_7_1_1":97.0818181818}
+{"country":"El Salvador","Year":2030,"Predicted_URBAN_SDG_7_1_1":97.0954545455}
+{"country":"Equatorial Guinea","Year":2022,"Predicted_URBAN_SDG_7_1_1":90.4472727273}
+{"country":"Equatorial Guinea","Year":2023,"Predicted_URBAN_SDG_7_1_1":90.2709090909}
+{"country":"Equatorial Guinea","Year":2024,"Predicted_URBAN_SDG_7_1_1":90.0945454545}
+{"country":"Equatorial Guinea","Year":2025,"Predicted_URBAN_SDG_7_1_1":89.9181818182}
+{"country":"Equatorial Guinea","Year":2026,"Predicted_URBAN_SDG_7_1_1":89.7418181818}
+{"country":"Equatorial Guinea","Year":2027,"Predicted_URBAN_SDG_7_1_1":89.5654545455}
+{"country":"Equatorial Guinea","Year":2028,"Predicted_URBAN_SDG_7_1_1":89.3890909091}
+{"country":"Equatorial Guinea","Year":2029,"Predicted_URBAN_SDG_7_1_1":89.2127272727}
+{"country":"Equatorial Guinea","Year":2030,"Predicted_URBAN_SDG_7_1_1":89.0363636364}
+{"country":"Ethiopia","Year":2022,"Predicted_URBAN_SDG_7_1_1":95.7245454545}
+{"country":"Ethiopia","Year":2023,"Predicted_URBAN_SDG_7_1_1":96.5254545455}
+{"country":"Ethiopia","Year":2024,"Predicted_URBAN_SDG_7_1_1":97.3263636364}
+{"country":"Ethiopia","Year":2025,"Predicted_URBAN_SDG_7_1_1":98.1272727273}
+{"country":"Ethiopia","Year":2026,"Predicted_URBAN_SDG_7_1_1":98.9281818182}
+{"country":"Ethiopia","Year":2027,"Predicted_URBAN_SDG_7_1_1":99.7290909091}
+{"country":"Ethiopia","Year":2028,"Predicted_URBAN_SDG_7_1_1":100.53}
+{"country":"Ethiopia","Year":2029,"Predicted_URBAN_SDG_7_1_1":101.3309090909}
+{"country":"Ethiopia","Year":2030,"Predicted_URBAN_SDG_7_1_1":102.1318181818}
+{"country":"Eritrea","Year":2022,"Predicted_URBAN_SDG_7_1_1":75.49}
+{"country":"Eritrea","Year":2023,"Predicted_URBAN_SDG_7_1_1":75.3327272727}
+{"country":"Eritrea","Year":2024,"Predicted_URBAN_SDG_7_1_1":75.1754545455}
+{"country":"Eritrea","Year":2025,"Predicted_URBAN_SDG_7_1_1":75.0181818182}
+{"country":"Eritrea","Year":2026,"Predicted_URBAN_SDG_7_1_1":74.8609090909}
+{"country":"Eritrea","Year":2027,"Predicted_URBAN_SDG_7_1_1":74.7036363636}
+{"country":"Eritrea","Year":2028,"Predicted_URBAN_SDG_7_1_1":74.5463636364}
+{"country":"Eritrea","Year":2029,"Predicted_URBAN_SDG_7_1_1":74.3890909091}
+{"country":"Eritrea","Year":2030,"Predicted_URBAN_SDG_7_1_1":74.2318181818}
+{"country":"Fiji","Year":2022,"Predicted_URBAN_SDG_7_1_1":100.9981818182}
+{"country":"Fiji","Year":2023,"Predicted_URBAN_SDG_7_1_1":101.42}
+{"country":"Fiji","Year":2024,"Predicted_URBAN_SDG_7_1_1":101.8418181818}
+{"country":"Fiji","Year":2025,"Predicted_URBAN_SDG_7_1_1":102.2636363636}
+{"country":"Fiji","Year":2026,"Predicted_URBAN_SDG_7_1_1":102.6854545455}
+{"country":"Fiji","Year":2027,"Predicted_URBAN_SDG_7_1_1":103.1072727273}
+{"country":"Fiji","Year":2028,"Predicted_URBAN_SDG_7_1_1":103.5290909091}
+{"country":"Fiji","Year":2029,"Predicted_URBAN_SDG_7_1_1":103.9509090909}
+{"country":"Fiji","Year":2030,"Predicted_URBAN_SDG_7_1_1":104.3727272727}
+{"country":"Djibouti","Year":2022,"Predicted_URBAN_SDG_7_1_1":73.4854545455}
+{"country":"Djibouti","Year":2023,"Predicted_URBAN_SDG_7_1_1":74.2690909091}
+{"country":"Djibouti","Year":2024,"Predicted_URBAN_SDG_7_1_1":75.0527272727}
+{"country":"Djibouti","Year":2025,"Predicted_URBAN_SDG_7_1_1":75.8363636364}
+{"country":"Djibouti","Year":2026,"Predicted_URBAN_SDG_7_1_1":76.62}
+{"country":"Djibouti","Year":2027,"Predicted_URBAN_SDG_7_1_1":77.4036363636}
+{"country":"Djibouti","Year":2028,"Predicted_URBAN_SDG_7_1_1":78.1872727273}
+{"country":"Djibouti","Year":2029,"Predicted_URBAN_SDG_7_1_1":78.9709090909}
+{"country":"Djibouti","Year":2030,"Predicted_URBAN_SDG_7_1_1":79.7545454545}
+{"country":"Gabon","Year":2022,"Predicted_URBAN_SDG_7_1_1":100.5636363636}
+{"country":"Gabon","Year":2023,"Predicted_URBAN_SDG_7_1_1":101.0181818182}
+{"country":"Gabon","Year":2024,"Predicted_URBAN_SDG_7_1_1":101.4727272727}
+{"country":"Gabon","Year":2025,"Predicted_URBAN_SDG_7_1_1":101.9272727273}
+{"country":"Gabon","Year":2026,"Predicted_URBAN_SDG_7_1_1":102.3818181818}
+{"country":"Gabon","Year":2027,"Predicted_URBAN_SDG_7_1_1":102.8363636364}
+{"country":"Gabon","Year":2028,"Predicted_URBAN_SDG_7_1_1":103.2909090909}
+{"country":"Gabon","Year":2029,"Predicted_URBAN_SDG_7_1_1":103.7454545455}
+{"country":"Gabon","Year":2030,"Predicted_URBAN_SDG_7_1_1":104.2}
+{"country":"Gambia","Year":2022,"Predicted_URBAN_SDG_7_1_1":81.2772727273}
+{"country":"Gambia","Year":2023,"Predicted_URBAN_SDG_7_1_1":82.7090909091}
+{"country":"Gambia","Year":2024,"Predicted_URBAN_SDG_7_1_1":84.1409090909}
+{"country":"Gambia","Year":2025,"Predicted_URBAN_SDG_7_1_1":85.5727272727}
+{"country":"Gambia","Year":2026,"Predicted_URBAN_SDG_7_1_1":87.0045454545}
+{"country":"Gambia","Year":2027,"Predicted_URBAN_SDG_7_1_1":88.4363636364}
+{"country":"Gambia","Year":2028,"Predicted_URBAN_SDG_7_1_1":89.8681818182}
+{"country":"Gambia","Year":2029,"Predicted_URBAN_SDG_7_1_1":91.3}
+{"country":"Gambia","Year":2030,"Predicted_URBAN_SDG_7_1_1":92.7318181818}
+{"country":"Ghana","Year":2022,"Predicted_URBAN_SDG_7_1_1":81.5854545455}
+{"country":"Ghana","Year":2023,"Predicted_URBAN_SDG_7_1_1":81.6781818182}
+{"country":"Ghana","Year":2024,"Predicted_URBAN_SDG_7_1_1":81.7709090909}
+{"country":"Ghana","Year":2025,"Predicted_URBAN_SDG_7_1_1":81.8636363636}
+{"country":"Ghana","Year":2026,"Predicted_URBAN_SDG_7_1_1":81.9563636364}
+{"country":"Ghana","Year":2027,"Predicted_URBAN_SDG_7_1_1":82.0490909091}
+{"country":"Ghana","Year":2028,"Predicted_URBAN_SDG_7_1_1":82.1418181818}
+{"country":"Ghana","Year":2029,"Predicted_URBAN_SDG_7_1_1":82.2345454545}
+{"country":"Ghana","Year":2030,"Predicted_URBAN_SDG_7_1_1":82.3272727273}
+{"country":"Kiribati","Year":2022,"Predicted_URBAN_SDG_7_1_1":84.2718181818}
+{"country":"Kiribati","Year":2023,"Predicted_URBAN_SDG_7_1_1":83.8327272727}
+{"country":"Kiribati","Year":2024,"Predicted_URBAN_SDG_7_1_1":83.3936363636}
+{"country":"Kiribati","Year":2025,"Predicted_URBAN_SDG_7_1_1":82.9545454545}
+{"country":"Kiribati","Year":2026,"Predicted_URBAN_SDG_7_1_1":82.5154545455}
+{"country":"Kiribati","Year":2027,"Predicted_URBAN_SDG_7_1_1":82.0763636364}
+{"country":"Kiribati","Year":2028,"Predicted_URBAN_SDG_7_1_1":81.6372727273}
+{"country":"Kiribati","Year":2029,"Predicted_URBAN_SDG_7_1_1":81.1981818182}
+{"country":"Kiribati","Year":2030,"Predicted_URBAN_SDG_7_1_1":80.7590909091}
+{"country":"Guatemala","Year":2022,"Predicted_URBAN_SDG_7_1_1":94.6727272727}
+{"country":"Guatemala","Year":2023,"Predicted_URBAN_SDG_7_1_1":94.6727272727}
+{"country":"Guatemala","Year":2024,"Predicted_URBAN_SDG_7_1_1":94.6727272727}
+{"country":"Guatemala","Year":2025,"Predicted_URBAN_SDG_7_1_1":94.6727272727}
+{"country":"Guatemala","Year":2026,"Predicted_URBAN_SDG_7_1_1":94.6727272727}
+{"country":"Guatemala","Year":2027,"Predicted_URBAN_SDG_7_1_1":94.6727272727}
+{"country":"Guatemala","Year":2028,"Predicted_URBAN_SDG_7_1_1":94.6727272727}
+{"country":"Guatemala","Year":2029,"Predicted_URBAN_SDG_7_1_1":94.6727272727}
+{"country":"Guatemala","Year":2030,"Predicted_URBAN_SDG_7_1_1":94.6727272727}
+{"country":"Guinea","Year":2022,"Predicted_URBAN_SDG_7_1_1":90.8518181818}
+{"country":"Guinea","Year":2023,"Predicted_URBAN_SDG_7_1_1":92.4436363636}
+{"country":"Guinea","Year":2024,"Predicted_URBAN_SDG_7_1_1":94.0354545455}
+{"country":"Guinea","Year":2025,"Predicted_URBAN_SDG_7_1_1":95.6272727273}
+{"country":"Guinea","Year":2026,"Predicted_URBAN_SDG_7_1_1":97.2190909091}
+{"country":"Guinea","Year":2027,"Predicted_URBAN_SDG_7_1_1":98.8109090909}
+{"country":"Guinea","Year":2028,"Predicted_URBAN_SDG_7_1_1":100.4027272727}
+{"country":"Guinea","Year":2029,"Predicted_URBAN_SDG_7_1_1":101.9945454545}
+{"country":"Guinea","Year":2030,"Predicted_URBAN_SDG_7_1_1":103.5863636364}
+{"country":"Guyana","Year":2022,"Predicted_URBAN_SDG_7_1_1":93.2954545455}
+{"country":"Guyana","Year":2023,"Predicted_URBAN_SDG_7_1_1":93.6454545455}
+{"country":"Guyana","Year":2024,"Predicted_URBAN_SDG_7_1_1":93.9954545455}
+{"country":"Guyana","Year":2025,"Predicted_URBAN_SDG_7_1_1":94.3454545455}
+{"country":"Guyana","Year":2026,"Predicted_URBAN_SDG_7_1_1":94.6954545455}
+{"country":"Guyana","Year":2027,"Predicted_URBAN_SDG_7_1_1":95.0454545455}
+{"country":"Guyana","Year":2028,"Predicted_URBAN_SDG_7_1_1":95.3954545455}
+{"country":"Guyana","Year":2029,"Predicted_URBAN_SDG_7_1_1":95.7454545455}
+{"country":"Guyana","Year":2030,"Predicted_URBAN_SDG_7_1_1":96.0954545455}
+{"country":"Haiti","Year":2022,"Predicted_URBAN_SDG_7_1_1":71.5481818182}
+{"country":"Haiti","Year":2023,"Predicted_URBAN_SDG_7_1_1":71.72}
+{"country":"Haiti","Year":2024,"Predicted_URBAN_SDG_7_1_1":71.8918181818}
+{"country":"Haiti","Year":2025,"Predicted_URBAN_SDG_7_1_1":72.0636363636}
+{"country":"Haiti","Year":2026,"Predicted_URBAN_SDG_7_1_1":72.2354545455}
+{"country":"Haiti","Year":2027,"Predicted_URBAN_SDG_7_1_1":72.4072727273}
+{"country":"Haiti","Year":2028,"Predicted_URBAN_SDG_7_1_1":72.5790909091}
+{"country":"Haiti","Year":2029,"Predicted_URBAN_SDG_7_1_1":72.7509090909}
+{"country":"Haiti","Year":2030,"Predicted_URBAN_SDG_7_1_1":72.9227272727}
+{"country":"Indonesia","Year":2022,"Predicted_URBAN_SDG_7_1_1":102.65}
+{"country":"Indonesia","Year":2023,"Predicted_URBAN_SDG_7_1_1":102.9727272727}
+{"country":"Indonesia","Year":2024,"Predicted_URBAN_SDG_7_1_1":103.2954545455}
+{"country":"Indonesia","Year":2025,"Predicted_URBAN_SDG_7_1_1":103.6181818182}
+{"country":"Indonesia","Year":2026,"Predicted_URBAN_SDG_7_1_1":103.9409090909}
+{"country":"Indonesia","Year":2027,"Predicted_URBAN_SDG_7_1_1":104.2636363636}
+{"country":"Indonesia","Year":2028,"Predicted_URBAN_SDG_7_1_1":104.5863636364}
+{"country":"Indonesia","Year":2029,"Predicted_URBAN_SDG_7_1_1":104.9090909091}
+{"country":"Indonesia","Year":2030,"Predicted_URBAN_SDG_7_1_1":105.2318181818}
+{"country":"C\u00f4te d'Ivoire","Year":2022,"Predicted_URBAN_SDG_7_1_1":98.2863636364}
+{"country":"C\u00f4te d'Ivoire","Year":2023,"Predicted_URBAN_SDG_7_1_1":99.0363636364}
+{"country":"C\u00f4te d'Ivoire","Year":2024,"Predicted_URBAN_SDG_7_1_1":99.7863636364}
+{"country":"C\u00f4te d'Ivoire","Year":2025,"Predicted_URBAN_SDG_7_1_1":100.5363636364}
+{"country":"C\u00f4te d'Ivoire","Year":2026,"Predicted_URBAN_SDG_7_1_1":101.2863636364}
+{"country":"C\u00f4te d'Ivoire","Year":2027,"Predicted_URBAN_SDG_7_1_1":102.0363636364}
+{"country":"C\u00f4te d'Ivoire","Year":2028,"Predicted_URBAN_SDG_7_1_1":102.7863636364}
+{"country":"C\u00f4te d'Ivoire","Year":2029,"Predicted_URBAN_SDG_7_1_1":103.5363636364}
+{"country":"C\u00f4te d'Ivoire","Year":2030,"Predicted_URBAN_SDG_7_1_1":104.2863636364}
+{"country":"Kenya","Year":2022,"Predicted_URBAN_SDG_7_1_1":81.3972727273}
+{"country":"Kenya","Year":2023,"Predicted_URBAN_SDG_7_1_1":82.8163636364}
+{"country":"Kenya","Year":2024,"Predicted_URBAN_SDG_7_1_1":84.2354545455}
+{"country":"Kenya","Year":2025,"Predicted_URBAN_SDG_7_1_1":85.6545454545}
+{"country":"Kenya","Year":2026,"Predicted_URBAN_SDG_7_1_1":87.0736363636}
+{"country":"Kenya","Year":2027,"Predicted_URBAN_SDG_7_1_1":88.4927272727}
+{"country":"Kenya","Year":2028,"Predicted_URBAN_SDG_7_1_1":89.9118181818}
+{"country":"Kenya","Year":2029,"Predicted_URBAN_SDG_7_1_1":91.3309090909}
+{"country":"Kenya","Year":2030,"Predicted_URBAN_SDG_7_1_1":92.75}
+{"country":"Latin America and the Caribbean","Year":2022,"Predicted_URBAN_SDG_7_1_1":100.3218181818}
+{"country":"Latin America and the Caribbean","Year":2023,"Predicted_URBAN_SDG_7_1_1":100.4236363636}
+{"country":"Latin America and the Caribbean","Year":2024,"Predicted_URBAN_SDG_7_1_1":100.5254545455}
+{"country":"Latin America and the Caribbean","Year":2025,"Predicted_URBAN_SDG_7_1_1":100.6272727273}
+{"country":"Latin America and the Caribbean","Year":2026,"Predicted_URBAN_SDG_7_1_1":100.7290909091}
+{"country":"Latin America and the Caribbean","Year":2027,"Predicted_URBAN_SDG_7_1_1":100.8309090909}
+{"country":"Latin America and the Caribbean","Year":2028,"Predicted_URBAN_SDG_7_1_1":100.9327272727}
+{"country":"Latin America and the Caribbean","Year":2029,"Predicted_URBAN_SDG_7_1_1":101.0345454545}
+{"country":"Latin America and the Caribbean","Year":2030,"Predicted_URBAN_SDG_7_1_1":101.1363636364}
+{"country":"Lesotho","Year":2022,"Predicted_URBAN_SDG_7_1_1":92.4354545455}
+{"country":"Lesotho","Year":2023,"Predicted_URBAN_SDG_7_1_1":96.0418181818}
+{"country":"Lesotho","Year":2024,"Predicted_URBAN_SDG_7_1_1":99.6481818182}
+{"country":"Lesotho","Year":2025,"Predicted_URBAN_SDG_7_1_1":103.2545454545}
+{"country":"Lesotho","Year":2026,"Predicted_URBAN_SDG_7_1_1":106.8609090909}
+{"country":"Lesotho","Year":2027,"Predicted_URBAN_SDG_7_1_1":110.4672727273}
+{"country":"Lesotho","Year":2028,"Predicted_URBAN_SDG_7_1_1":114.0736363636}
+{"country":"Lesotho","Year":2029,"Predicted_URBAN_SDG_7_1_1":117.68}
+{"country":"Lesotho","Year":2030,"Predicted_URBAN_SDG_7_1_1":121.2863636364}
+{"country":"Liberia","Year":2022,"Predicted_URBAN_SDG_7_1_1":17.99}
+{"country":"Liberia","Year":2023,"Predicted_URBAN_SDG_7_1_1":18.88}
+{"country":"Liberia","Year":2024,"Predicted_URBAN_SDG_7_1_1":19.77}
+{"country":"Liberia","Year":2025,"Predicted_URBAN_SDG_7_1_1":20.66}
+{"country":"Liberia","Year":2026,"Predicted_URBAN_SDG_7_1_1":21.55}
+{"country":"Liberia","Year":2027,"Predicted_URBAN_SDG_7_1_1":22.44}
+{"country":"Liberia","Year":2028,"Predicted_URBAN_SDG_7_1_1":23.33}
+{"country":"Liberia","Year":2029,"Predicted_URBAN_SDG_7_1_1":24.22}
+{"country":"Liberia","Year":2030,"Predicted_URBAN_SDG_7_1_1":25.11}
+{"country":"Landlocked developing countries (LLDCs)","Year":2022,"Predicted_URBAN_SDG_7_1_1":84.1336363636}
+{"country":"Landlocked developing countries (LLDCs)","Year":2023,"Predicted_URBAN_SDG_7_1_1":84.4618181818}
+{"country":"Landlocked developing countries (LLDCs)","Year":2024,"Predicted_URBAN_SDG_7_1_1":84.79}
+{"country":"Landlocked developing countries (LLDCs)","Year":2025,"Predicted_URBAN_SDG_7_1_1":85.1181818182}
+{"country":"Landlocked developing countries (LLDCs)","Year":2026,"Predicted_URBAN_SDG_7_1_1":85.4463636364}
+{"country":"Landlocked developing countries (LLDCs)","Year":2027,"Predicted_URBAN_SDG_7_1_1":85.7745454545}
+{"country":"Landlocked developing countries (LLDCs)","Year":2028,"Predicted_URBAN_SDG_7_1_1":86.1027272727}
+{"country":"Landlocked developing countries (LLDCs)","Year":2029,"Predicted_URBAN_SDG_7_1_1":86.4309090909}
+{"country":"Landlocked developing countries (LLDCs)","Year":2030,"Predicted_URBAN_SDG_7_1_1":86.7590909091}
+{"country":"Madagascar","Year":2022,"Predicted_URBAN_SDG_7_1_1":65.6381818182}
+{"country":"Madagascar","Year":2023,"Predicted_URBAN_SDG_7_1_1":66.4436363636}
+{"country":"Madagascar","Year":2024,"Predicted_URBAN_SDG_7_1_1":67.2490909091}
+{"country":"Madagascar","Year":2025,"Predicted_URBAN_SDG_7_1_1":68.0545454545}
+{"country":"Madagascar","Year":2026,"Predicted_URBAN_SDG_7_1_1":68.86}
+{"country":"Madagascar","Year":2027,"Predicted_URBAN_SDG_7_1_1":69.6654545455}
+{"country":"Madagascar","Year":2028,"Predicted_URBAN_SDG_7_1_1":70.4709090909}
+{"country":"Madagascar","Year":2029,"Predicted_URBAN_SDG_7_1_1":71.2763636364}
+{"country":"Madagascar","Year":2030,"Predicted_URBAN_SDG_7_1_1":72.0818181818}
+{"country":"Malawi","Year":2022,"Predicted_URBAN_SDG_7_1_1":43.0945454545}
+{"country":"Malawi","Year":2023,"Predicted_URBAN_SDG_7_1_1":43.76}
+{"country":"Malawi","Year":2024,"Predicted_URBAN_SDG_7_1_1":44.4254545455}
+{"country":"Malawi","Year":2025,"Predicted_URBAN_SDG_7_1_1":45.0909090909}
+{"country":"Malawi","Year":2026,"Predicted_URBAN_SDG_7_1_1":45.7563636364}
+{"country":"Malawi","Year":2027,"Predicted_URBAN_SDG_7_1_1":46.4218181818}
+{"country":"Malawi","Year":2028,"Predicted_URBAN_SDG_7_1_1":47.0872727273}
+{"country":"Malawi","Year":2029,"Predicted_URBAN_SDG_7_1_1":47.7527272727}
+{"country":"Malawi","Year":2030,"Predicted_URBAN_SDG_7_1_1":48.4181818182}
+{"country":"Mali","Year":2022,"Predicted_URBAN_SDG_7_1_1":105.5972727273}
+{"country":"Mali","Year":2023,"Predicted_URBAN_SDG_7_1_1":108.9254545455}
+{"country":"Mali","Year":2024,"Predicted_URBAN_SDG_7_1_1":112.2536363636}
+{"country":"Mali","Year":2025,"Predicted_URBAN_SDG_7_1_1":115.5818181818}
+{"country":"Mali","Year":2026,"Predicted_URBAN_SDG_7_1_1":118.91}
+{"country":"Mali","Year":2027,"Predicted_URBAN_SDG_7_1_1":122.2381818182}
+{"country":"Mali","Year":2028,"Predicted_URBAN_SDG_7_1_1":125.5663636364}
+{"country":"Mali","Year":2029,"Predicted_URBAN_SDG_7_1_1":128.8945454545}
+{"country":"Mali","Year":2030,"Predicted_URBAN_SDG_7_1_1":132.2227272727}
+{"country":"Mauritania","Year":2022,"Predicted_URBAN_SDG_7_1_1":97.1827272727}
+{"country":"Mauritania","Year":2023,"Predicted_URBAN_SDG_7_1_1":99.6036363636}
+{"country":"Mauritania","Year":2024,"Predicted_URBAN_SDG_7_1_1":102.0245454545}
+{"country":"Mauritania","Year":2025,"Predicted_URBAN_SDG_7_1_1":104.4454545455}
+{"country":"Mauritania","Year":2026,"Predicted_URBAN_SDG_7_1_1":106.8663636364}
+{"country":"Mauritania","Year":2027,"Predicted_URBAN_SDG_7_1_1":109.2872727273}
+{"country":"Mauritania","Year":2028,"Predicted_URBAN_SDG_7_1_1":111.7081818182}
+{"country":"Mauritania","Year":2029,"Predicted_URBAN_SDG_7_1_1":114.1290909091}
+{"country":"Mauritania","Year":2030,"Predicted_URBAN_SDG_7_1_1":116.55}
+{"country":"Mexico","Year":2022,"Predicted_URBAN_SDG_7_1_1":99.9363636364}
+{"country":"Mexico","Year":2023,"Predicted_URBAN_SDG_7_1_1":99.9636363636}
+{"country":"Mexico","Year":2024,"Predicted_URBAN_SDG_7_1_1":99.9909090909}
+{"country":"Mexico","Year":2025,"Predicted_URBAN_SDG_7_1_1":100.0181818182}
+{"country":"Mexico","Year":2026,"Predicted_URBAN_SDG_7_1_1":100.0454545455}
+{"country":"Mexico","Year":2027,"Predicted_URBAN_SDG_7_1_1":100.0727272727}
+{"country":"Mexico","Year":2028,"Predicted_URBAN_SDG_7_1_1":100.1}
+{"country":"Mexico","Year":2029,"Predicted_URBAN_SDG_7_1_1":100.1272727273}
+{"country":"Mexico","Year":2030,"Predicted_URBAN_SDG_7_1_1":100.1545454545}
+{"country":"Mozambique","Year":2022,"Predicted_URBAN_SDG_7_1_1":84.03}
+{"country":"Mozambique","Year":2023,"Predicted_URBAN_SDG_7_1_1":86.9381818182}
+{"country":"Mozambique","Year":2024,"Predicted_URBAN_SDG_7_1_1":89.8463636364}
+{"country":"Mozambique","Year":2025,"Predicted_URBAN_SDG_7_1_1":92.7545454545}
+{"country":"Mozambique","Year":2026,"Predicted_URBAN_SDG_7_1_1":95.6627272727}
+{"country":"Mozambique","Year":2027,"Predicted_URBAN_SDG_7_1_1":98.5709090909}
+{"country":"Mozambique","Year":2028,"Predicted_URBAN_SDG_7_1_1":101.4790909091}
+{"country":"Mozambique","Year":2029,"Predicted_URBAN_SDG_7_1_1":104.3872727273}
+{"country":"Mozambique","Year":2030,"Predicted_URBAN_SDG_7_1_1":107.2954545455}
+{"country":"Namibia","Year":2022,"Predicted_URBAN_SDG_7_1_1":79.5872727273}
+{"country":"Namibia","Year":2023,"Predicted_URBAN_SDG_7_1_1":79.9581818182}
+{"country":"Namibia","Year":2024,"Predicted_URBAN_SDG_7_1_1":80.3290909091}
+{"country":"Namibia","Year":2025,"Predicted_URBAN_SDG_7_1_1":80.7}
+{"country":"Namibia","Year":2026,"Predicted_URBAN_SDG_7_1_1":81.0709090909}
+{"country":"Namibia","Year":2027,"Predicted_URBAN_SDG_7_1_1":81.4418181818}
+{"country":"Namibia","Year":2028,"Predicted_URBAN_SDG_7_1_1":81.8127272727}
+{"country":"Namibia","Year":2029,"Predicted_URBAN_SDG_7_1_1":82.1836363636}
+{"country":"Namibia","Year":2030,"Predicted_URBAN_SDG_7_1_1":82.5545454545}
+{"country":"Nepal","Year":2022,"Predicted_URBAN_SDG_7_1_1":101.9372727273}
+{"country":"Nepal","Year":2023,"Predicted_URBAN_SDG_7_1_1":102.7218181818}
+{"country":"Nepal","Year":2024,"Predicted_URBAN_SDG_7_1_1":103.5063636364}
+{"country":"Nepal","Year":2025,"Predicted_URBAN_SDG_7_1_1":104.2909090909}
+{"country":"Nepal","Year":2026,"Predicted_URBAN_SDG_7_1_1":105.0754545455}
+{"country":"Nepal","Year":2027,"Predicted_URBAN_SDG_7_1_1":105.86}
+{"country":"Nepal","Year":2028,"Predicted_URBAN_SDG_7_1_1":106.6445454545}
+{"country":"Nepal","Year":2029,"Predicted_URBAN_SDG_7_1_1":107.4290909091}
+{"country":"Nepal","Year":2030,"Predicted_URBAN_SDG_7_1_1":108.2136363636}
+{"country":"Oceania (exc. Australia and New Zealand)","Year":2022,"Predicted_URBAN_SDG_7_1_1":85.4090909091}
+{"country":"Oceania (exc. Australia and New Zealand)","Year":2023,"Predicted_URBAN_SDG_7_1_1":85.5727272727}
+{"country":"Oceania (exc. Australia and New Zealand)","Year":2024,"Predicted_URBAN_SDG_7_1_1":85.7363636364}
+{"country":"Oceania (exc. Australia and New Zealand)","Year":2025,"Predicted_URBAN_SDG_7_1_1":85.9}
+{"country":"Oceania (exc. Australia and New Zealand)","Year":2026,"Predicted_URBAN_SDG_7_1_1":86.0636363636}
+{"country":"Oceania (exc. Australia and New Zealand)","Year":2027,"Predicted_URBAN_SDG_7_1_1":86.2272727273}
+{"country":"Oceania (exc. Australia and New Zealand)","Year":2028,"Predicted_URBAN_SDG_7_1_1":86.3909090909}
+{"country":"Oceania (exc. Australia and New Zealand)","Year":2029,"Predicted_URBAN_SDG_7_1_1":86.5545454545}
+{"country":"Oceania (exc. Australia and New Zealand)","Year":2030,"Predicted_URBAN_SDG_7_1_1":86.7181818182}
+{"country":"Vanuatu","Year":2022,"Predicted_URBAN_SDG_7_1_1":90.5636363636}
+{"country":"Vanuatu","Year":2023,"Predicted_URBAN_SDG_7_1_1":91.1181818182}
+{"country":"Vanuatu","Year":2024,"Predicted_URBAN_SDG_7_1_1":91.6727272727}
+{"country":"Vanuatu","Year":2025,"Predicted_URBAN_SDG_7_1_1":92.2272727273}
+{"country":"Vanuatu","Year":2026,"Predicted_URBAN_SDG_7_1_1":92.7818181818}
+{"country":"Vanuatu","Year":2027,"Predicted_URBAN_SDG_7_1_1":93.3363636364}
+{"country":"Vanuatu","Year":2028,"Predicted_URBAN_SDG_7_1_1":93.8909090909}
+{"country":"Vanuatu","Year":2029,"Predicted_URBAN_SDG_7_1_1":94.4454545455}
+{"country":"Vanuatu","Year":2030,"Predicted_URBAN_SDG_7_1_1":95.0}
+{"country":"Niger","Year":2022,"Predicted_URBAN_SDG_7_1_1":71.7518181818}
+{"country":"Niger","Year":2023,"Predicted_URBAN_SDG_7_1_1":73.2345454545}
+{"country":"Niger","Year":2024,"Predicted_URBAN_SDG_7_1_1":74.7172727273}
+{"country":"Niger","Year":2025,"Predicted_URBAN_SDG_7_1_1":76.2}
+{"country":"Niger","Year":2026,"Predicted_URBAN_SDG_7_1_1":77.6827272727}
+{"country":"Niger","Year":2027,"Predicted_URBAN_SDG_7_1_1":79.1654545455}
+{"country":"Niger","Year":2028,"Predicted_URBAN_SDG_7_1_1":80.6481818182}
+{"country":"Niger","Year":2029,"Predicted_URBAN_SDG_7_1_1":82.1309090909}
+{"country":"Niger","Year":2030,"Predicted_URBAN_SDG_7_1_1":83.6136363636}
+{"country":"Nigeria","Year":2022,"Predicted_URBAN_SDG_7_1_1":81.8572727273}
+{"country":"Nigeria","Year":2023,"Predicted_URBAN_SDG_7_1_1":81.7381818182}
+{"country":"Nigeria","Year":2024,"Predicted_URBAN_SDG_7_1_1":81.6190909091}
+{"country":"Nigeria","Year":2025,"Predicted_URBAN_SDG_7_1_1":81.5}
+{"country":"Nigeria","Year":2026,"Predicted_URBAN_SDG_7_1_1":81.3809090909}
+{"country":"Nigeria","Year":2027,"Predicted_URBAN_SDG_7_1_1":81.2618181818}
+{"country":"Nigeria","Year":2028,"Predicted_URBAN_SDG_7_1_1":81.1427272727}
+{"country":"Nigeria","Year":2029,"Predicted_URBAN_SDG_7_1_1":81.0236363636}
+{"country":"Nigeria","Year":2030,"Predicted_URBAN_SDG_7_1_1":80.9045454545}
+{"country":"Micronesia (Federated States of)","Year":2022,"Predicted_URBAN_SDG_7_1_1":100.0981818182}
+{"country":"Micronesia (Federated States of)","Year":2023,"Predicted_URBAN_SDG_7_1_1":101.4472727273}
+{"country":"Micronesia (Federated States of)","Year":2024,"Predicted_URBAN_SDG_7_1_1":102.7963636364}
+{"country":"Micronesia (Federated States of)","Year":2025,"Predicted_URBAN_SDG_7_1_1":104.1454545455}
+{"country":"Micronesia (Federated States of)","Year":2026,"Predicted_URBAN_SDG_7_1_1":105.4945454545}
+{"country":"Micronesia (Federated States of)","Year":2027,"Predicted_URBAN_SDG_7_1_1":106.8436363636}
+{"country":"Micronesia (Federated States of)","Year":2028,"Predicted_URBAN_SDG_7_1_1":108.1927272727}
+{"country":"Micronesia (Federated States of)","Year":2029,"Predicted_URBAN_SDG_7_1_1":109.5418181818}
+{"country":"Micronesia (Federated States of)","Year":2030,"Predicted_URBAN_SDG_7_1_1":110.8909090909}
+{"country":"Marshall Islands","Year":2022,"Predicted_URBAN_SDG_7_1_1":96.09}
+{"country":"Marshall Islands","Year":2023,"Predicted_URBAN_SDG_7_1_1":96.4054545455}
+{"country":"Marshall Islands","Year":2024,"Predicted_URBAN_SDG_7_1_1":96.7209090909}
+{"country":"Marshall Islands","Year":2025,"Predicted_URBAN_SDG_7_1_1":97.0363636364}
+{"country":"Marshall Islands","Year":2026,"Predicted_URBAN_SDG_7_1_1":97.3518181818}
+{"country":"Marshall Islands","Year":2027,"Predicted_URBAN_SDG_7_1_1":97.6672727273}
+{"country":"Marshall Islands","Year":2028,"Predicted_URBAN_SDG_7_1_1":97.9827272727}
+{"country":"Marshall Islands","Year":2029,"Predicted_URBAN_SDG_7_1_1":98.2981818182}
+{"country":"Marshall Islands","Year":2030,"Predicted_URBAN_SDG_7_1_1":98.6136363636}
+{"country":"Pakistan","Year":2022,"Predicted_URBAN_SDG_7_1_1":99.8781818182}
+{"country":"Pakistan","Year":2023,"Predicted_URBAN_SDG_7_1_1":100.1672727273}
+{"country":"Pakistan","Year":2024,"Predicted_URBAN_SDG_7_1_1":100.4563636364}
+{"country":"Pakistan","Year":2025,"Predicted_URBAN_SDG_7_1_1":100.7454545455}
+{"country":"Pakistan","Year":2026,"Predicted_URBAN_SDG_7_1_1":101.0345454545}
+{"country":"Pakistan","Year":2027,"Predicted_URBAN_SDG_7_1_1":101.3236363636}
+{"country":"Pakistan","Year":2028,"Predicted_URBAN_SDG_7_1_1":101.6127272727}
+{"country":"Pakistan","Year":2029,"Predicted_URBAN_SDG_7_1_1":101.9018181818}
+{"country":"Pakistan","Year":2030,"Predicted_URBAN_SDG_7_1_1":102.1909090909}
+{"country":"Papua New Guinea","Year":2022,"Predicted_URBAN_SDG_7_1_1":72.6663636364}
+{"country":"Papua New Guinea","Year":2023,"Predicted_URBAN_SDG_7_1_1":73.0836363636}
+{"country":"Papua New Guinea","Year":2024,"Predicted_URBAN_SDG_7_1_1":73.5009090909}
+{"country":"Papua New Guinea","Year":2025,"Predicted_URBAN_SDG_7_1_1":73.9181818182}
+{"country":"Papua New Guinea","Year":2026,"Predicted_URBAN_SDG_7_1_1":74.3354545455}
+{"country":"Papua New Guinea","Year":2027,"Predicted_URBAN_SDG_7_1_1":74.7527272727}
+{"country":"Papua New Guinea","Year":2028,"Predicted_URBAN_SDG_7_1_1":75.17}
+{"country":"Papua New Guinea","Year":2029,"Predicted_URBAN_SDG_7_1_1":75.5872727273}
+{"country":"Papua New Guinea","Year":2030,"Predicted_URBAN_SDG_7_1_1":76.0045454545}
+{"country":"Peru","Year":2022,"Predicted_URBAN_SDG_7_1_1":103.1345454545}
+{"country":"Peru","Year":2023,"Predicted_URBAN_SDG_7_1_1":103.5927272727}
+{"country":"Peru","Year":2024,"Predicted_URBAN_SDG_7_1_1":104.0509090909}
+{"country":"Peru","Year":2025,"Predicted_URBAN_SDG_7_1_1":104.5090909091}
+{"country":"Peru","Year":2026,"Predicted_URBAN_SDG_7_1_1":104.9672727273}
+{"country":"Peru","Year":2027,"Predicted_URBAN_SDG_7_1_1":105.4254545455}
+{"country":"Peru","Year":2028,"Predicted_URBAN_SDG_7_1_1":105.8836363636}
+{"country":"Peru","Year":2029,"Predicted_URBAN_SDG_7_1_1":106.3418181818}
+{"country":"Peru","Year":2030,"Predicted_URBAN_SDG_7_1_1":106.8}
+{"country":"Philippines","Year":2022,"Predicted_URBAN_SDG_7_1_1":99.3627272727}
+{"country":"Philippines","Year":2023,"Predicted_URBAN_SDG_7_1_1":99.7963636364}
+{"country":"Philippines","Year":2024,"Predicted_URBAN_SDG_7_1_1":100.23}
+{"country":"Philippines","Year":2025,"Predicted_URBAN_SDG_7_1_1":100.6636363636}
+{"country":"Philippines","Year":2026,"Predicted_URBAN_SDG_7_1_1":101.0972727273}
+{"country":"Philippines","Year":2027,"Predicted_URBAN_SDG_7_1_1":101.5309090909}
+{"country":"Philippines","Year":2028,"Predicted_URBAN_SDG_7_1_1":101.9645454545}
+{"country":"Philippines","Year":2029,"Predicted_URBAN_SDG_7_1_1":102.3981818182}
+{"country":"Philippines","Year":2030,"Predicted_URBAN_SDG_7_1_1":102.8318181818}
+{"country":"Guinea-Bissau","Year":2022,"Predicted_URBAN_SDG_7_1_1":19.9118181818}
+{"country":"Guinea-Bissau","Year":2023,"Predicted_URBAN_SDG_7_1_1":19.6290909091}
+{"country":"Guinea-Bissau","Year":2024,"Predicted_URBAN_SDG_7_1_1":19.3463636364}
+{"country":"Guinea-Bissau","Year":2025,"Predicted_URBAN_SDG_7_1_1":19.0636363636}
+{"country":"Guinea-Bissau","Year":2026,"Predicted_URBAN_SDG_7_1_1":18.7809090909}
+{"country":"Guinea-Bissau","Year":2027,"Predicted_URBAN_SDG_7_1_1":18.4981818182}
+{"country":"Guinea-Bissau","Year":2028,"Predicted_URBAN_SDG_7_1_1":18.2154545455}
+{"country":"Guinea-Bissau","Year":2029,"Predicted_URBAN_SDG_7_1_1":17.9327272727}
+{"country":"Guinea-Bissau","Year":2030,"Predicted_URBAN_SDG_7_1_1":17.65}
+{"country":"Rwanda","Year":2022,"Predicted_URBAN_SDG_7_1_1":55.6527272727}
+{"country":"Rwanda","Year":2023,"Predicted_URBAN_SDG_7_1_1":56.5381818182}
+{"country":"Rwanda","Year":2024,"Predicted_URBAN_SDG_7_1_1":57.4236363636}
+{"country":"Rwanda","Year":2025,"Predicted_URBAN_SDG_7_1_1":58.3090909091}
+{"country":"Rwanda","Year":2026,"Predicted_URBAN_SDG_7_1_1":59.1945454545}
+{"country":"Rwanda","Year":2027,"Predicted_URBAN_SDG_7_1_1":60.08}
+{"country":"Rwanda","Year":2028,"Predicted_URBAN_SDG_7_1_1":60.9654545455}
+{"country":"Rwanda","Year":2029,"Predicted_URBAN_SDG_7_1_1":61.8509090909}
+{"country":"Rwanda","Year":2030,"Predicted_URBAN_SDG_7_1_1":62.7363636364}
+{"country":"Sao Tome and Principe","Year":2022,"Predicted_URBAN_SDG_7_1_1":77.1527272727}
+{"country":"Sao Tome and Principe","Year":2023,"Predicted_URBAN_SDG_7_1_1":77.7745454545}
+{"country":"Sao Tome and Principe","Year":2024,"Predicted_URBAN_SDG_7_1_1":78.3963636364}
+{"country":"Sao Tome and Principe","Year":2025,"Predicted_URBAN_SDG_7_1_1":79.0181818182}
+{"country":"Sao Tome and Principe","Year":2026,"Predicted_URBAN_SDG_7_1_1":79.64}
+{"country":"Sao Tome and Principe","Year":2027,"Predicted_URBAN_SDG_7_1_1":80.2618181818}
+{"country":"Sao Tome and Principe","Year":2028,"Predicted_URBAN_SDG_7_1_1":80.8836363636}
+{"country":"Sao Tome and Principe","Year":2029,"Predicted_URBAN_SDG_7_1_1":81.5054545455}
+{"country":"Sao Tome and Principe","Year":2030,"Predicted_URBAN_SDG_7_1_1":82.1272727273}
+{"country":"Senegal","Year":2022,"Predicted_URBAN_SDG_7_1_1":98.0763636364}
+{"country":"Senegal","Year":2023,"Predicted_URBAN_SDG_7_1_1":99.2054545455}
+{"country":"Senegal","Year":2024,"Predicted_URBAN_SDG_7_1_1":100.3345454545}
+{"country":"Senegal","Year":2025,"Predicted_URBAN_SDG_7_1_1":101.4636363636}
+{"country":"Senegal","Year":2026,"Predicted_URBAN_SDG_7_1_1":102.5927272727}
+{"country":"Senegal","Year":2027,"Predicted_URBAN_SDG_7_1_1":103.7218181818}
+{"country":"Senegal","Year":2028,"Predicted_URBAN_SDG_7_1_1":104.8509090909}
+{"country":"Senegal","Year":2029,"Predicted_URBAN_SDG_7_1_1":105.98}
+{"country":"Senegal","Year":2030,"Predicted_URBAN_SDG_7_1_1":107.1090909091}
+{"country":"Sierra Leone","Year":2022,"Predicted_URBAN_SDG_7_1_1":51.37}
+{"country":"Sierra Leone","Year":2023,"Predicted_URBAN_SDG_7_1_1":52.5890909091}
+{"country":"Sierra Leone","Year":2024,"Predicted_URBAN_SDG_7_1_1":53.8081818182}
+{"country":"Sierra Leone","Year":2025,"Predicted_URBAN_SDG_7_1_1":55.0272727273}
+{"country":"Sierra Leone","Year":2026,"Predicted_URBAN_SDG_7_1_1":56.2463636364}
+{"country":"Sierra Leone","Year":2027,"Predicted_URBAN_SDG_7_1_1":57.4654545455}
+{"country":"Sierra Leone","Year":2028,"Predicted_URBAN_SDG_7_1_1":58.6845454545}
+{"country":"Sierra Leone","Year":2029,"Predicted_URBAN_SDG_7_1_1":59.9036363636}
+{"country":"Sierra Leone","Year":2030,"Predicted_URBAN_SDG_7_1_1":61.1227272727}
+{"country":"Somalia","Year":2022,"Predicted_URBAN_SDG_7_1_1":95.8709090909}
+{"country":"Somalia","Year":2023,"Predicted_URBAN_SDG_7_1_1":99.4563636364}
+{"country":"Somalia","Year":2024,"Predicted_URBAN_SDG_7_1_1":103.0418181818}
+{"country":"Somalia","Year":2025,"Predicted_URBAN_SDG_7_1_1":106.6272727273}
+{"country":"Somalia","Year":2026,"Predicted_URBAN_SDG_7_1_1":110.2127272727}
+{"country":"Somalia","Year":2027,"Predicted_URBAN_SDG_7_1_1":113.7981818182}
+{"country":"Somalia","Year":2028,"Predicted_URBAN_SDG_7_1_1":117.3836363636}
+{"country":"Somalia","Year":2029,"Predicted_URBAN_SDG_7_1_1":120.9690909091}
+{"country":"Somalia","Year":2030,"Predicted_URBAN_SDG_7_1_1":124.5545454545}
+{"country":"South Africa","Year":2022,"Predicted_URBAN_SDG_7_1_1":86.7618181818}
+{"country":"South Africa","Year":2023,"Predicted_URBAN_SDG_7_1_1":86.8018181818}
+{"country":"South Africa","Year":2024,"Predicted_URBAN_SDG_7_1_1":86.8418181818}
+{"country":"South Africa","Year":2025,"Predicted_URBAN_SDG_7_1_1":86.8818181818}
+{"country":"South Africa","Year":2026,"Predicted_URBAN_SDG_7_1_1":86.9218181818}
+{"country":"South Africa","Year":2027,"Predicted_URBAN_SDG_7_1_1":86.9618181818}
+{"country":"South Africa","Year":2028,"Predicted_URBAN_SDG_7_1_1":87.0018181818}
+{"country":"South Africa","Year":2029,"Predicted_URBAN_SDG_7_1_1":87.0418181818}
+{"country":"South Africa","Year":2030,"Predicted_URBAN_SDG_7_1_1":87.0818181818}
+{"country":"Zimbabwe","Year":2022,"Predicted_URBAN_SDG_7_1_1":90.6145454545}
+{"country":"Zimbabwe","Year":2023,"Predicted_URBAN_SDG_7_1_1":90.8672727273}
+{"country":"Zimbabwe","Year":2024,"Predicted_URBAN_SDG_7_1_1":91.12}
+{"country":"Zimbabwe","Year":2025,"Predicted_URBAN_SDG_7_1_1":91.3727272727}
+{"country":"Zimbabwe","Year":2026,"Predicted_URBAN_SDG_7_1_1":91.6254545455}
+{"country":"Zimbabwe","Year":2027,"Predicted_URBAN_SDG_7_1_1":91.8781818182}
+{"country":"Zimbabwe","Year":2028,"Predicted_URBAN_SDG_7_1_1":92.1309090909}
+{"country":"Zimbabwe","Year":2029,"Predicted_URBAN_SDG_7_1_1":92.3836363636}
+{"country":"Zimbabwe","Year":2030,"Predicted_URBAN_SDG_7_1_1":92.6363636364}
+{"country":"Small island developing States (SIDS)","Year":2022,"Predicted_URBAN_SDG_7_1_1":93.3909090909}
+{"country":"Small island developing States (SIDS)","Year":2023,"Predicted_URBAN_SDG_7_1_1":93.4272727273}
+{"country":"Small island developing States (SIDS)","Year":2024,"Predicted_URBAN_SDG_7_1_1":93.4636363636}
+{"country":"Small island developing States (SIDS)","Year":2025,"Predicted_URBAN_SDG_7_1_1":93.5}
+{"country":"Small island developing States (SIDS)","Year":2026,"Predicted_URBAN_SDG_7_1_1":93.5363636364}
+{"country":"Small island developing States (SIDS)","Year":2027,"Predicted_URBAN_SDG_7_1_1":93.5727272727}
+{"country":"Small island developing States (SIDS)","Year":2028,"Predicted_URBAN_SDG_7_1_1":93.6090909091}
+{"country":"Small island developing States (SIDS)","Year":2029,"Predicted_URBAN_SDG_7_1_1":93.6454545455}
+{"country":"Small island developing States (SIDS)","Year":2030,"Predicted_URBAN_SDG_7_1_1":93.6818181818}
+{"country":"South Sudan","Year":2022,"Predicted_URBAN_SDG_7_1_1":12.0945454545}
+{"country":"South Sudan","Year":2023,"Predicted_URBAN_SDG_7_1_1":12.2690909091}
+{"country":"South Sudan","Year":2024,"Predicted_URBAN_SDG_7_1_1":12.4436363636}
+{"country":"South Sudan","Year":2025,"Predicted_URBAN_SDG_7_1_1":12.6181818182}
+{"country":"South Sudan","Year":2026,"Predicted_URBAN_SDG_7_1_1":12.7927272727}
+{"country":"South Sudan","Year":2027,"Predicted_URBAN_SDG_7_1_1":12.9672727273}
+{"country":"South Sudan","Year":2028,"Predicted_URBAN_SDG_7_1_1":13.1418181818}
+{"country":"South Sudan","Year":2029,"Predicted_URBAN_SDG_7_1_1":13.3163636364}
+{"country":"South Sudan","Year":2030,"Predicted_URBAN_SDG_7_1_1":13.4909090909}
+{"country":"Sudan","Year":2022,"Predicted_URBAN_SDG_7_1_1":59.3890909091}
+{"country":"Sudan","Year":2023,"Predicted_URBAN_SDG_7_1_1":59.3018181818}
+{"country":"Sudan","Year":2024,"Predicted_URBAN_SDG_7_1_1":59.2145454545}
+{"country":"Sudan","Year":2025,"Predicted_URBAN_SDG_7_1_1":59.1272727273}
+{"country":"Sudan","Year":2026,"Predicted_URBAN_SDG_7_1_1":59.04}
+{"country":"Sudan","Year":2027,"Predicted_URBAN_SDG_7_1_1":58.9527272727}
+{"country":"Sudan","Year":2028,"Predicted_URBAN_SDG_7_1_1":58.8654545455}
+{"country":"Sudan","Year":2029,"Predicted_URBAN_SDG_7_1_1":58.7781818182}
+{"country":"Sudan","Year":2030,"Predicted_URBAN_SDG_7_1_1":58.6909090909}
+{"country":"Suriname","Year":2022,"Predicted_URBAN_SDG_7_1_1":96.7}
+{"country":"Suriname","Year":2023,"Predicted_URBAN_SDG_7_1_1":96.6545454545}
+{"country":"Suriname","Year":2024,"Predicted_URBAN_SDG_7_1_1":96.6090909091}
+{"country":"Suriname","Year":2025,"Predicted_URBAN_SDG_7_1_1":96.5636363636}
+{"country":"Suriname","Year":2026,"Predicted_URBAN_SDG_7_1_1":96.5181818182}
+{"country":"Suriname","Year":2027,"Predicted_URBAN_SDG_7_1_1":96.4727272727}
+{"country":"Suriname","Year":2028,"Predicted_URBAN_SDG_7_1_1":96.4272727273}
+{"country":"Suriname","Year":2029,"Predicted_URBAN_SDG_7_1_1":96.3818181818}
+{"country":"Suriname","Year":2030,"Predicted_URBAN_SDG_7_1_1":96.3363636364}
+{"country":"Northern Africa and Western Asia","Year":2022,"Predicted_URBAN_SDG_7_1_1":98.8045454545}
+{"country":"Northern Africa and Western Asia","Year":2023,"Predicted_URBAN_SDG_7_1_1":98.8818181818}
+{"country":"Northern Africa and Western Asia","Year":2024,"Predicted_URBAN_SDG_7_1_1":98.9590909091}
+{"country":"Northern Africa and Western Asia","Year":2025,"Predicted_URBAN_SDG_7_1_1":99.0363636364}
+{"country":"Northern Africa and Western Asia","Year":2026,"Predicted_URBAN_SDG_7_1_1":99.1136363636}
+{"country":"Northern Africa and Western Asia","Year":2027,"Predicted_URBAN_SDG_7_1_1":99.1909090909}
+{"country":"Northern Africa and Western Asia","Year":2028,"Predicted_URBAN_SDG_7_1_1":99.2681818182}
+{"country":"Northern Africa and Western Asia","Year":2029,"Predicted_URBAN_SDG_7_1_1":99.3454545455}
+{"country":"Northern Africa and Western Asia","Year":2030,"Predicted_URBAN_SDG_7_1_1":99.4227272727}
+{"country":"Eswatini","Year":2022,"Predicted_URBAN_SDG_7_1_1":87.8527272727}
+{"country":"Eswatini","Year":2023,"Predicted_URBAN_SDG_7_1_1":89.3381818182}
+{"country":"Eswatini","Year":2024,"Predicted_URBAN_SDG_7_1_1":90.8236363636}
+{"country":"Eswatini","Year":2025,"Predicted_URBAN_SDG_7_1_1":92.3090909091}
+{"country":"Eswatini","Year":2026,"Predicted_URBAN_SDG_7_1_1":93.7945454545}
+{"country":"Eswatini","Year":2027,"Predicted_URBAN_SDG_7_1_1":95.28}
+{"country":"Eswatini","Year":2028,"Predicted_URBAN_SDG_7_1_1":96.7654545455}
+{"country":"Eswatini","Year":2029,"Predicted_URBAN_SDG_7_1_1":98.2509090909}
+{"country":"Eswatini","Year":2030,"Predicted_URBAN_SDG_7_1_1":99.7363636364}
+{"country":"Eastern and South-Eastern Asia","Year":2022,"Predicted_URBAN_SDG_7_1_1":100.55}
+{"country":"Eastern and South-Eastern Asia","Year":2023,"Predicted_URBAN_SDG_7_1_1":100.6454545455}
+{"country":"Eastern and South-Eastern Asia","Year":2024,"Predicted_URBAN_SDG_7_1_1":100.7409090909}
+{"country":"Eastern and South-Eastern Asia","Year":2025,"Predicted_URBAN_SDG_7_1_1":100.8363636364}
+{"country":"Eastern and South-Eastern Asia","Year":2026,"Predicted_URBAN_SDG_7_1_1":100.9318181818}
+{"country":"Eastern and South-Eastern Asia","Year":2027,"Predicted_URBAN_SDG_7_1_1":101.0272727273}
+{"country":"Eastern and South-Eastern Asia","Year":2028,"Predicted_URBAN_SDG_7_1_1":101.1227272727}
+{"country":"Eastern and South-Eastern Asia","Year":2029,"Predicted_URBAN_SDG_7_1_1":101.2181818182}
+{"country":"Eastern and South-Eastern Asia","Year":2030,"Predicted_URBAN_SDG_7_1_1":101.3136363636}
+{"country":"Tajikistan","Year":2022,"Predicted_URBAN_SDG_7_1_1":98.6890909091}
+{"country":"Tajikistan","Year":2023,"Predicted_URBAN_SDG_7_1_1":98.6381818182}
+{"country":"Tajikistan","Year":2024,"Predicted_URBAN_SDG_7_1_1":98.5872727273}
+{"country":"Tajikistan","Year":2025,"Predicted_URBAN_SDG_7_1_1":98.5363636364}
+{"country":"Tajikistan","Year":2026,"Predicted_URBAN_SDG_7_1_1":98.4854545455}
+{"country":"Tajikistan","Year":2027,"Predicted_URBAN_SDG_7_1_1":98.4345454545}
+{"country":"Tajikistan","Year":2028,"Predicted_URBAN_SDG_7_1_1":98.3836363636}
+{"country":"Tajikistan","Year":2029,"Predicted_URBAN_SDG_7_1_1":98.3327272727}
+{"country":"Tajikistan","Year":2030,"Predicted_URBAN_SDG_7_1_1":98.2818181818}
+{"country":"Togo","Year":2022,"Predicted_URBAN_SDG_7_1_1":101.7963636364}
+{"country":"Togo","Year":2023,"Predicted_URBAN_SDG_7_1_1":104.4309090909}
+{"country":"Togo","Year":2024,"Predicted_URBAN_SDG_7_1_1":107.0654545455}
+{"country":"Togo","Year":2025,"Predicted_URBAN_SDG_7_1_1":109.7}
+{"country":"Togo","Year":2026,"Predicted_URBAN_SDG_7_1_1":112.3345454545}
+{"country":"Togo","Year":2027,"Predicted_URBAN_SDG_7_1_1":114.9690909091}
+{"country":"Togo","Year":2028,"Predicted_URBAN_SDG_7_1_1":117.6036363636}
+{"country":"Togo","Year":2029,"Predicted_URBAN_SDG_7_1_1":120.2381818182}
+{"country":"Togo","Year":2030,"Predicted_URBAN_SDG_7_1_1":122.8727272727}
+{"country":"Uganda","Year":2022,"Predicted_URBAN_SDG_7_1_1":56.9536363636}
+{"country":"Uganda","Year":2023,"Predicted_URBAN_SDG_7_1_1":57.6509090909}
+{"country":"Uganda","Year":2024,"Predicted_URBAN_SDG_7_1_1":58.3481818182}
+{"country":"Uganda","Year":2025,"Predicted_URBAN_SDG_7_1_1":59.0454545455}
+{"country":"Uganda","Year":2026,"Predicted_URBAN_SDG_7_1_1":59.7427272727}
+{"country":"Uganda","Year":2027,"Predicted_URBAN_SDG_7_1_1":60.44}
+{"country":"Uganda","Year":2028,"Predicted_URBAN_SDG_7_1_1":61.1372727273}
+{"country":"Uganda","Year":2029,"Predicted_URBAN_SDG_7_1_1":61.8345454545}
+{"country":"Uganda","Year":2030,"Predicted_URBAN_SDG_7_1_1":62.5318181818}
+{"country":"United Republic of Tanzania","Year":2022,"Predicted_URBAN_SDG_7_1_1":60.4554545455}
+{"country":"United Republic of Tanzania","Year":2023,"Predicted_URBAN_SDG_7_1_1":61.6854545455}
+{"country":"United Republic of Tanzania","Year":2024,"Predicted_URBAN_SDG_7_1_1":62.9154545455}
+{"country":"United Republic of Tanzania","Year":2025,"Predicted_URBAN_SDG_7_1_1":64.1454545455}
+{"country":"United Republic of Tanzania","Year":2026,"Predicted_URBAN_SDG_7_1_1":65.3754545455}
+{"country":"United Republic of Tanzania","Year":2027,"Predicted_URBAN_SDG_7_1_1":66.6054545455}
+{"country":"United Republic of Tanzania","Year":2028,"Predicted_URBAN_SDG_7_1_1":67.8354545455}
+{"country":"United Republic of Tanzania","Year":2029,"Predicted_URBAN_SDG_7_1_1":69.0654545455}
+{"country":"United Republic of Tanzania","Year":2030,"Predicted_URBAN_SDG_7_1_1":70.2954545455}
+{"country":"Burkina Faso","Year":2022,"Predicted_URBAN_SDG_7_1_1":56.1645454545}
+{"country":"Burkina Faso","Year":2023,"Predicted_URBAN_SDG_7_1_1":56.7672727273}
+{"country":"Burkina Faso","Year":2024,"Predicted_URBAN_SDG_7_1_1":57.37}
+{"country":"Burkina Faso","Year":2025,"Predicted_URBAN_SDG_7_1_1":57.9727272727}
+{"country":"Burkina Faso","Year":2026,"Predicted_URBAN_SDG_7_1_1":58.5754545455}
+{"country":"Burkina Faso","Year":2027,"Predicted_URBAN_SDG_7_1_1":59.1781818182}
+{"country":"Burkina Faso","Year":2028,"Predicted_URBAN_SDG_7_1_1":59.7809090909}
+{"country":"Burkina Faso","Year":2029,"Predicted_URBAN_SDG_7_1_1":60.3836363636}
+{"country":"Burkina Faso","Year":2030,"Predicted_URBAN_SDG_7_1_1":60.9863636364}
+{"country":"Zambia","Year":2022,"Predicted_URBAN_SDG_7_1_1":65.1972727273}
+{"country":"Zambia","Year":2023,"Predicted_URBAN_SDG_7_1_1":66.1163636364}
+{"country":"Zambia","Year":2024,"Predicted_URBAN_SDG_7_1_1":67.0354545455}
+{"country":"Zambia","Year":2025,"Predicted_URBAN_SDG_7_1_1":67.9545454545}
+{"country":"Zambia","Year":2026,"Predicted_URBAN_SDG_7_1_1":68.8736363636}
+{"country":"Zambia","Year":2027,"Predicted_URBAN_SDG_7_1_1":69.7927272727}
+{"country":"Zambia","Year":2028,"Predicted_URBAN_SDG_7_1_1":70.7118181818}
+{"country":"Zambia","Year":2029,"Predicted_URBAN_SDG_7_1_1":71.6309090909}
+{"country":"Zambia","Year":2030,"Predicted_URBAN_SDG_7_1_1":72.55}
